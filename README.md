@@ -7,4 +7,3 @@
 * (V) A consulta localiza produtos existentes.
 * (V) O programa informa quando o produto não é encontrado.
 * (V) O menu continua funcionando após cada operação.
-
